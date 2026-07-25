@@ -1,0 +1,5 @@
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118 ----> нужен для запуска торча с гпу (по необходимости мне пригодилось в проекте)
+
+pip install torch torchvision scikit-learn joblib Pillow numpy --------> необходимые библиотеки для создания модели
+
+os ------> встроенная библиотека не нужно качать при помощи Pip
