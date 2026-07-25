@@ -39,7 +39,7 @@
 * AI / ML: Python 3+, Pytorch(ResNEt 18+), Google colab.
 * Backend: Fast-Api
 * Frontend: Standart Css, Html5, Js
-* DevOps & Tools: ChatGPT(Logo genering)
+* DevOps & Tools: ChatGPT(Logo generating)
 
 ---
 
